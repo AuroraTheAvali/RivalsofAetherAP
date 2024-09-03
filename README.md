@@ -5,11 +5,13 @@ Rivals of Aether Archipelago Manual
 Current Features:
 
 Unlocks:
-- All 18 Characters
+- All 18 Characters (Start with a random character)
 - Each Character's Runes (The unlock includes every rune for that character)
 - All 8 Charm Slots
 - 10 Goal McGuffins
 - Access to each Story Mode stage (Except Aethereal Gates)
+- Different move types can be unlocked (Optional)
+- Parrying and Airdodging have to be unlocked (Optional)
 
 Checks:
 - Each Abyss Wave up to 50
@@ -21,7 +23,4 @@ Clearing Aethereal Gates with 10 Goal McGuffins.
 
 Planned Features:
 Actual Logic (I need more testing for the abyss waves checks) (current logic is only for the aethereal gates and story mode stages)
-An option to choose your starting character (you currently have to use Starting Inventory)
-Toggle for certain game mechanics (Move Types (aerials, specials, etc.) parrying and airdodges)
 Traps (maybe)
-
